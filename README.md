@@ -27,7 +27,7 @@
 
 **Status:** <span style="color:#00BFFF; font-weight:bold">SAFE ✅</span>
 
-**How to use** <span> How to use: 
+**How to use** <span>
 
 ➤ If it shows: "➤ Only filter supported domains? (yes/no): " 
 
