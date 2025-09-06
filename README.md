@@ -27,6 +27,11 @@
 
 **Status:** <span style="color:#00BFFF; font-weight:bold">SAFE ✅</span>
 
+**How to use** <span> How to use: 
+
+➤ If it shows: "➤ Only filter supported domains? (yes/no): " 
+
+You can ignore it or choose no it still works normally, it does not affect the process!</span>
 
 
 **README:** <span> Why do you check virustotal.com and get virus? Because this tool is encoded and compiled by me, I guarantee no malware happens. I sell this source code for 1 dollar </span>
